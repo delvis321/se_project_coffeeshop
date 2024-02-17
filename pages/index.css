@@ -192,8 +192,12 @@
 }
 
 .form {
-  padding-bottom: 120px;
   width: 100%;
+}
+
+.form-margins {
+  margin: 0 auto;
+  padding-bottom: 120px;
 }
 
 .form__fieldset {
