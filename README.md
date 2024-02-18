@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would like to add more interactivity and animations to this project. An idea is having the menu items appear as you scroll through it or having the background circles slowly move.
